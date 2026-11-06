@@ -1,0 +1,6 @@
+board:
+  name: my_scratch_board
+  full_name: my board from scratch
+  vendor: Pranesh
+  socs:
+    - name: stm32f446xx
