@@ -69,4 +69,6 @@ config APP_HEARTBEAT_PERIOD_MS
     default 500
     help
       Delay between heartbeat LED toggles, in milliseconds.
+      
 source "Kconfig.zephyr"
+rsource "drivers/our_driver/Kconfig"
